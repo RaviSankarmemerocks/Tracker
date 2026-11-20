@@ -1,0 +1,521 @@
+{
+  "version": 3,
+  "problems": {
+    "4": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "21": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "22": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "23": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "24": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "25": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "27": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "29": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "30": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "31": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "35": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "37": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "38": {
+      "completed": true,
+      "completedAt": "2026-07-28",
+      "revisions": []
+    },
+    "39": {
+      "completed": true,
+      "completedAt": "2026-08-01",
+      "revisions": []
+    },
+    "40": {
+      "completed": true,
+      "completedAt": "2026-08-01",
+      "revisions": []
+    },
+    "41": {
+      "completed": true,
+      "completedAt": "2026-08-01",
+      "revisions": []
+    },
+    "42": {
+      "completed": true,
+      "completedAt": "2026-08-02",
+      "revisions": []
+    },
+    "43": {
+      "completed": true,
+      "completedAt": "2026-07-28",
+      "revisions": []
+    },
+    "44": {
+      "completed": true,
+      "completedAt": "2026-08-02",
+      "revisions": []
+    },
+    "46": {
+      "completed": true,
+      "completedAt": "2026-08-01",
+      "revisions": []
+    },
+    "48": {
+      "completed": true,
+      "completedAt": "2026-08-02",
+      "revisions": []
+    },
+    "73": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "74": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "77": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "78": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "161": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "379": {
+      "completed": true,
+      "completedAt": "2026-07-28",
+      "revisions": []
+    },
+    "493": {
+      "completed": true,
+      "completedAt": "2026-10-20",
+      "revisions": []
+    },
+    "561": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "564": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "600": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "605": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "715": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "805": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "813": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "864": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "865": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "866": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "867": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "868": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "869": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "870": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "871": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "872": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "873": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "874": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "875": {
+      "completed": true,
+      "completedAt": "2026-10-21",
+      "revisions": []
+    },
+    "876": {
+      "completed": true,
+      "completedAt": "2026-10-20",
+      "revisions": []
+    },
+    "878": {
+      "completed": true,
+      "completedAt": "2026-10-20",
+      "revisions": []
+    },
+    "2761": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "2762": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "2764": {
+      "completed": true,
+      "completedAt": "2026-07-28",
+      "revisions": []
+    },
+    "2767": {
+      "completed": true,
+      "completedAt": "2026-10-23",
+      "revisions": []
+    },
+    "2793": {
+      "completed": true,
+      "completedAt": "2026-08-02",
+      "revisions": []
+    },
+    "2798": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    },
+    "2835": {
+      "completed": true,
+      "completedAt": "2026-10-19",
+      "revisions": []
+    },
+    "2836": {
+      "completed": true,
+      "completedAt": "2026-08-11",
+      "revisions": []
+    }
+  },
+  "weak": {},
+  "solutions": {
+    "22": {
+      "code": "class Solution {\n    public int majorityElement(int[] nums) {\n        int count=0;\n        int element = -1;\n        for(int i=0;i<nums.length;i++){\n            if(count==0){\n                element = nums[i];\n                count++;\n            }else{\n                if(element==nums[i]){\n                    count++;\n                }else{\n                    count--;\n                }\n            }\n        }\n        count=0;\n        for(int i=0;i<nums.length;i++){\n            if(nums[i]==element){\n                count++;\n            }\n        }\n        return count>(nums.length/2)?element:-1;\n    }\n}",
+      "updatedAt": "2026-08-11"
+    },
+    "29": {
+      "code": "class Solution {\n    public int maxSubArray(int[] nums) {\n        int maxSum = Integer.MIN_VALUE;\n        int sum=0;\n        for(int i=0;i<nums.length;i++){\n            sum+=nums[i];\n            if(sum<nums[i]){\n                sum=nums[i];\n            }\n            maxSum = Math.max(sum,maxSum);\n        }\n        return maxSum;\n    }\n    \n}",
+      "updatedAt": "2026-08-11"
+    },
+    "38": {
+      "code": "import java.math.BigInteger;\nclass Solution {\n    public String largestNumber(int[] nums) {\n        String ans = \"\";\n        for(int i=0;i<nums.length-1;i++){\n            for(int j=i+1;j<nums.length;j++){\n                BigInteger ij = new BigInteger(\"\" + nums[i] + nums[j]);\n                BigInteger ji = new BigInteger(\"\" + nums[j] + nums[i]);\n                if (ji.compareTo(ij) > 0) {\n                    int temp = nums[i];\n                    nums[i] = nums[j];\n                    nums[j] = temp;\n                }\n\n            }\n            ans+=nums[i];\n        }\n        ans+=nums[nums.length-1];\n        return ans.charAt(0) == '0' ? \"0\" : ans;\n    }\n}",
+      "updatedAt": "2026-08-01"
+    },
+    "39": {
+      "code": "class Solution {\n    public void rotate(int[] nums, int k) {\n        int n = nums.length;\n        k = k % n; \n        reverse(nums, 0, n - 1);\n        reverse(nums, 0, k - 1);\n        reverse(nums, k, n - 1);\n    }\n\n    private void reverse(int[] nums, int left, int right) {\n        while (left < right) {\n            int temp = nums[left];\n            nums[left] = nums[right];\n            nums[right] = temp;\n            left++;\n            right--;\n        }\n    }\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "40": {
+      "code": "class Solution {\n    public void rotate(int[] nums, int k) {\n        int n = nums.length;\n        k = k % n; \n        reverse(nums, 0, n - 1);\n        reverse(nums, 0, k - 1);\n        reverse(nums, k, n - 1);\n    }\n\n    private void reverse(int[] nums, int left, int right) {\n        while (left < right) {\n            int temp = nums[left];\n            nums[left] = nums[right];\n            nums[right] = temp;\n            left++;\n            right--;\n        }\n    }\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "41": {
+      "code": "class Solution {\n    public int search(int arr[], int x) {\n        // code here\n        for(int i=0;i<arr.length;i++){\n            if(arr[i]==x){\n                return i;\n            }\n        }\n        return -1;\n    }\n}\n",
+      "updatedAt": "2026-08-01"
+    },
+    "42": {
+      "code": "class Solution {\n    public int findMaxConsecutiveOnes(int[] nums) {\n        int count=0;\n        int ans=0;\n        for(int i:nums){\n            if(i==0){\n                ans=Math.max(ans,count);\n                count=0;\n            }else{\n                count++;\n            }\n        }\n        ans=Math.max(ans,count);\n        return ans;\n    }\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "43": {
+      "code": "import java.math.BigInteger;\n\nclass Solution {\n    public String kthLargestNumber(String[] nums, int k) {\n        BigInteger arr[] = new BigInteger [nums.length];\n        int i=0;\n        for(String a:nums){\n            arr[i++] = new BigInteger(a);\n        }\n        Arrays.sort(arr);\n        return \"\"+arr[arr.length-k];\n    }\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "44": {
+      "code": "class Solution {\n    public int missingNumber(int[] nums) {\n        int n = nums.length;\n        int totalSum = (n*(n+1))/2 ;\n        int sum=0;\n        for(int i:nums){\n            sum+=i;\n        }\n        return totalSum-sum;\n        \n    }\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "46": {
+      "code": "class Solution {\n    public void moveZeroes(int[] nums) {\n        int pointer=0;\n        int numberOfZeros = 0;\n        for(int i=0;i<nums.length;i++){\n            if(nums[i]==0){\n                numberOfZeros++;\n            }\n        }\n        for(int i=0;i<nums.length;){\n            if(nums[i]==0){\n                i++;\n                continue;\n            }\n            nums[pointer++] = nums[i++];\n        }\n        for(int i=0;i<numberOfZeros;i++){\n            nums[pointer++] = 0;\n        }\n    }\n    //return nums;\n}",
+      "updatedAt": "2026-08-02"
+    },
+    "48": {
+      "code": "class Solution {\n    public static ArrayList<Integer> findUnion(int a[], int b[]) {\n        // code here\n         ArrayList<Integer> result = new ArrayList<>();\n        int pointer=0;\n        int i=0;\n        int j=0;\n         while (i < a.length && j < b.length) {\n            if (a[i] < b[j]) {\n                if (result.isEmpty() || result.get(result.size() - 1) != a[i]) {\n                    result.add(a[i]);\n                }\n                i++;\n            } else if (a[i] > b[j]) {\n                if (result.isEmpty() || result.get(result.size() - 1) != b[j]) {\n                    result.add(b[j]);\n                }\n                j++;\n            } else {\n                if (result.isEmpty() || result.get(result.size() - 1) != a[i]) {\n                    result.add(a[i]);\n                }\n                i++;\n                j++;\n            }\n        }\n\n        while (i < a.length) {\n            if (result.isEmpty() || result.get(result.size() - 1) != a[i]) {\n                result.add(a[i]);\n            }\n            i++;\n        }\n\n        while (j < b.length) {\n            if (result.isEmpty() || result.get(result.size() - 1) != b[j]) {\n                result.add(b[j]);\n            }\n            j++;\n        }\n\n        return result;\n    }\n}\n",
+      "updatedAt": "2026-08-02"
+    },
+    "379": {
+      "code": "class Solution {\n    public boolean check(int[] nums) {\n\n        if (nums.length == 1)\n            return true;\n        int no = nums[0];\n        boolean isRotated = false;\n\n        for (int i = 0; i < nums.length; i++) {\n            if (!isRotated && no > nums[i]) {\n                isRotated = true;\n                no = nums[i];\n            } else if (isRotated && no > nums[i]) {\n                isRotated = false;\n                no = nums[i];\n                return false;\n            } else if (no <= nums[i]) {\n                no = nums[i];\n            }\n        }\n\n        if (!isRotated) {//arr is already sorted \n            return true;\n        } else if (isRotated) {\n            return no <= nums[0];\n        }\n\n        return isRotated;\n    }\n}",
+      "updatedAt": "2026-07-28"
+    },
+    "564": {
+      "code": "// User function Template for Java\n\nclass Solution {\n    public int longestSubarray(int[] arr, int k) {\n        // code here\n        Map<Integer,Integer> map =new HashMap<>();\n        int sum=0;\n        int maxLength=0;\n        for(int i=0;i<arr.length;i++){\n            //arr[] = [10, 5, 2, 7, 1, -10] k=15\n            sum+=arr[i];\n            if(sum==k){\n                maxLength= i+1;\n            }\n            if(map.containsKey(sum-k)){\n                maxLength=Math.max(maxLength,i-map.get(sum-k));\n            }\n            \n            map.putIfAbsent(sum,i);\n            \n            \n        }\n        return maxLength;\n    }\n}\n",
+      "updatedAt": "2026-08-11"
+    },
+    "2761": {
+      "code": "class Solution {\n    public int maxSubArray(int[] nums) {\n        int maxSum = Integer.MIN_VALUE;\n        int sum=0;\n        for(int i=0;i<nums.length;i++){\n            sum+=nums[i];\n            if(sum<nums[i]){\n                sum=nums[i];\n            }\n            maxSum = Math.max(sum,maxSum);\n        }\n        return maxSum;\n    }\n    \n}",
+      "updatedAt": "2026-08-11"
+    },
+    "2764": {
+      "code": "class Solution {\n    public int removeDuplicates(int[] nums) {\n        int pointer=1;\n        for(int i=1;i<nums.length;i++){\n            if(nums[i]!=nums[i-1]){\n                nums[pointer++]=nums[i];\n            }\n        }\n        return pointer;\n    }\n}",
+      "updatedAt": "2026-07-28"
+    },
+    "2793": {
+      "code": "class Solution {\n    public int singleNumber(int[] nums) {\n        int ans = 0;\n\n        for (int x : nums) {\n            ans ^= x;\n        }\n\n        return ans;\n    }\n}",
+      "updatedAt": "2026-08-09"
+    },
+    "2798": {
+      "code": "class Solution {\n    public int maxProfit(int[] prices) {\n        int length = prices.length;\n        int curr = Integer.MAX_VALUE;\n        int profit = 0;\n        for(int i=0;i<length;i++){\n            if(prices[i]<curr){\n                curr = prices[i];\n            }else{\n                profit = Math.max(prices[i]-curr,profit); \n            }\n        }\n        return profit;\n    }\n}\n\n//buy sell stocks 2\n\nclass Solution {\n    public int maxProfit(int[] prices) {\n        int length = prices.length;\n        int curr = Integer.MAX_VALUE;\n        int profit = 0;\n        for(int i=0;i<length;i++){\n            if(prices[i]<curr){\n                curr = prices[i];\n            }else{\n                profit += prices[i]-curr;\n                curr = price[i]; \n            }\n        }\n        return profit;\n    }\n}",
+      "updatedAt": "2026-08-11"
+    },
+    "2836": {
+      "code": "import java.util.*;\n\n// Class containing the sliding window algorithm\nclass Solution {\n    public int longestSubarray(int[] nums, int k) {\n        int n = nums.length;\n\n        // To store the maximum length of the subarray\n        int maxLen = 0;\n\n        // Pointers for sliding window\n        int left = 0, right = 0;\n\n        // Sum of the current window\n        int sum = nums[0];\n\n        // Traverse through the array\n        while (right < n) {\n\n            // Shrink the window if sum exceeds k\n            while (left <= right && sum > k) {\n                sum -= nums[left];\n                left++;\n            }\n\n            // Update max length if sum equals k\n            if (sum == k) {\n                maxLen = Math.max(maxLen, right - left + 1);\n            }\n\n            // Expand the window to the right\n            right++;\n            if (right < n) {\n                sum += nums[right];\n            }\n        }\n\n        return maxLen;\n    }\n}\n\n// Separate class containing only the main method\npublic class Main {\n    public static void main(String[] args) {\n        int[] nums = {10, 5, 2, 7, 1, 9};\n        int k = 15;\n\n        // Create Solution object\n        Solution sol = new Solution();\n\n        // Function call to find the result\n        int ans = sol.longestSubarray(nums, k);\n\n        // Output the result\n        System.out.println(\"The length of longest subarray having sum k is: \" + ans);\n    }\n}\n",
+      "updatedAt": "2026-08-11"
+    }
+  },
+  "currentSet": [
+    "869",
+    "873",
+    "2767",
+    "77"
+  ],
+  "revision": [
+    "868",
+    "31",
+    "35",
+    "561"
+  ],
+  "revisionDate": "2026-10-26",
+  "setHistory": [
+    {
+      "id": "set-1785582959300",
+      "createdAt": "2026-08-01",
+      "problemIds": [
+        "38",
+        "43",
+        "379",
+        "2764"
+      ]
+    },
+    {
+      "id": "set-1785652953962",
+      "createdAt": "2026-08-02",
+      "problemIds": [
+        "40",
+        "39",
+        "46",
+        "41"
+      ]
+    },
+    {
+      "id": "set-1786474352100",
+      "createdAt": "2026-08-11",
+      "problemIds": [
+        "2836",
+        "564",
+        "37",
+        "2762"
+      ]
+    },
+    {
+      "id": "set-1792592485190",
+      "createdAt": "2026-10-21",
+      "problemIds": [
+        "22",
+        "29",
+        "2761",
+        "2798"
+      ]
+    }
+  ],
+  "history": {
+    "2026-07-28": {
+      "new": [
+        "38",
+        "43",
+        "379",
+        "2764"
+      ],
+      "revision": []
+    },
+    "2026-08-01": {
+      "new": [
+        "40",
+        "39",
+        "46",
+        "41"
+      ],
+      "revision": []
+    },
+    "2026-08-02": {
+      "new": [
+        "48",
+        "44",
+        "2793",
+        "42"
+      ],
+      "revision": []
+    },
+    "2026-08-11": {
+      "new": [
+        "2836",
+        "564",
+        "37",
+        "2762",
+        "22",
+        "29",
+        "2761",
+        "2798"
+      ],
+      "revision": []
+    },
+    "2026-10-19": {
+      "new": [
+        "24",
+        "25",
+        "21",
+        "715",
+        "605",
+        "27",
+        "23",
+        "813",
+        "561",
+        "35",
+        "2835",
+        "30",
+        "31"
+      ],
+      "revision": []
+    },
+    "2026-10-20": {
+      "new": [
+        "493",
+        "876",
+        "878"
+      ],
+      "revision": []
+    },
+    "2026-10-21": {
+      "new": [
+        "867",
+        "865",
+        "864",
+        "868",
+        "866",
+        "875",
+        "871",
+        "874",
+        "870",
+        "872",
+        "4",
+        "869",
+        "873"
+      ],
+      "revision": []
+    },
+    "2026-10-23": {
+      "new": [
+        "2767",
+        "77",
+        "78",
+        "805",
+        "74",
+        "73",
+        "600",
+        "161"
+      ],
+      "revision": []
+    }
+  },
+  "streak": 1,
+  "lastActiveDate": "2026-10-23"
+}

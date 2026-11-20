@@ -1,0 +1,941 @@
+{
+  "total": 104,
+  "problems": [
+    {
+      "id": "425",
+      "name": "Input Output",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1211",
+      "name": "Cpp Basics",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "424",
+      "name": "If ElseIf",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "429",
+      "name": "Switch Case",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2869",
+      "name": "What are arrays, strings?",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2867",
+      "name": "For loops",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2868",
+      "name": "While loops",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2866",
+      "name": "Functions (Pass by Reference and Value)",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1219",
+      "name": "Theory with examples",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Things to Know in C++/Java/Python or any language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1216",
+      "name": "Easy and Medium",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Build-up Logical Thinking",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1205",
+      "name": "Hard",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Build-up Logical Thinking",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "401",
+      "name": "Pattern 1",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "412",
+      "name": "Pattern 2",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "416",
+      "name": "Pattern 3",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "417",
+      "name": "Pattern 4",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "418",
+      "name": "Pattern 5",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "419",
+      "name": "Pattern 6",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "420",
+      "name": "Pattern 7",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "421",
+      "name": "Pattern 8",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "422",
+      "name": "Pattern 9",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "402",
+      "name": "Pattern 10",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "403",
+      "name": "Pattern 11",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "404",
+      "name": "Pattern 12",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "405",
+      "name": "Pattern 13",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "406",
+      "name": "Pattern 14",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "407",
+      "name": "Pattern 15",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "408",
+      "name": "Pattern 16",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "409",
+      "name": "Pattern 17",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "410",
+      "name": "Pattern 18",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "411",
+      "name": "Pattern 19",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "413",
+      "name": "Pattern 20",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "414",
+      "name": "Pattern 21",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "415",
+      "name": "Pattern 22",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Patterns",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1218",
+      "name": "STL",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn STL/Java-Collections or similar thing in your language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1217",
+      "name": "Java Collections",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn STL/Java-Collections or similar thing in your language",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "367",
+      "name": "Count all Digits of a Number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "376",
+      "name": "Reverse a number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "374",
+      "name": "Palindrome Number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "372",
+      "name": "GCD of Two Numbers",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "366",
+      "name": "Check if the Number is Armstrong",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2807",
+      "name": "Print all Divisors",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "365",
+      "name": "Check for Prime Number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Know Basic Maths",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2401",
+      "name": "Understand recursion by print something N times",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "2405",
+      "name": "Print name N times using recursion",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "850",
+      "name": "Print 1 to N using Recursion",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "852",
+      "name": "Print N to 1 using Recursion",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "386",
+      "name": "Sum of First N Numbers",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "371",
+      "name": "Factorial of a given number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "342",
+      "name": "Reverse an array",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "378",
+      "name": "Check if String is Palindrome or Not",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "381",
+      "name": "Fibonacci Number",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Recursion",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1203",
+      "name": "Basic Hashing",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Hashing",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "252",
+      "name": "Counting Frequencies of Array Elements",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Hashing",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "344",
+      "name": "Highest Occurring Element in an Array",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn the basics",
+      "subsection": "Learn Basic Hashing",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "947",
+      "name": "Selection Sort",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-I",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "943",
+      "name": "Bubble Sort",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-I",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "944",
+      "name": "Insertion Sorting",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-I",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "945",
+      "name": "Merge Sorting",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-II",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "881",
+      "name": "Recursive Bubble Sort",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-II",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "882",
+      "name": "Recursive Insertion Sort",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-II",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "946",
+      "name": "Quick Sorting",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn Important Sorting Techniques",
+      "subsection": "Sorting-II",
+      "skipReason": "Excluded topic (basics/sorting)"
+    },
+    {
+      "id": "1237",
+      "name": "Introduction to Singly LinkedList",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn 1D LinkedList",
+      "skipReason": "Intro/learning subsection: Learn 1D LinkedList"
+    },
+    {
+      "id": "356",
+      "name": "Insertion at the head of Linked List",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn 1D LinkedList",
+      "skipReason": "Intro/learning subsection: Learn 1D LinkedList"
+    },
+    {
+      "id": "352",
+      "name": "Deletion of the head of LL",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn 1D LinkedList",
+      "skipReason": "Intro/learning subsection: Learn 1D LinkedList"
+    },
+    {
+      "id": "470",
+      "name": "Find the length of the Linked List",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn 1D LinkedList",
+      "skipReason": "Intro/learning subsection: Learn 1D LinkedList"
+    },
+    {
+      "id": "905",
+      "name": "Search in Linked List",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn 1D LinkedList",
+      "skipReason": "Intro/learning subsection: Learn 1D LinkedList"
+    },
+    {
+      "id": "1234",
+      "name": "Introduction to Doubly LL",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn Doubly LinkedList",
+      "skipReason": "Intro/learning subsection: Learn Doubly LinkedList"
+    },
+    {
+      "id": "361",
+      "name": "Insert node before head in Doubly Linked List",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn Doubly LinkedList",
+      "skipReason": "Intro/learning subsection: Learn Doubly LinkedList"
+    },
+    {
+      "id": "348",
+      "name": "Delete head of Doubly Linked List",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn Doubly LinkedList",
+      "skipReason": "Intro/learning subsection: Learn Doubly LinkedList"
+    },
+    {
+      "id": "900",
+      "name": "Reverse a Doubly Linked List",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]",
+      "subsection": "Learn Doubly LinkedList",
+      "skipReason": "Intro/learning subsection: Learn Doubly LinkedList"
+    },
+    {
+      "id": "2400",
+      "name": "Learn All Patterns of Subsequences (Theory)",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Recursion [PatternWise]",
+      "subsection": "Subsequences Pattern",
+      "skipReason": "Intro/theory problem name"
+    },
+    {
+      "id": "1155",
+      "name": "Introduction to Bits and Tricks",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "177",
+      "name": "Check if the i-th bit is Set or Not",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "171",
+      "name": "Check if a Number is Odd or Not",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "172",
+      "name": "Check if a Number is Power of 2 or Not",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "243",
+      "name": "Count the Number of Set Bits",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "2410",
+      "name": "Set/Unset the rightmost unset bit",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "1005",
+      "name": "Swap Two Numbers",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "140",
+      "name": "Divide two numbers without multiplication and division",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Bit Manipulation [Concepts & Problems]",
+      "subsection": "Learn Bit Manipulation",
+      "skipReason": "Intro/learning subsection: Learn Bit Manipulation"
+    },
+    {
+      "id": "390",
+      "name": "Implement Stack using Arrays",
+      "difficulty": "Easy",
+      "sheetCompleted": true,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "387",
+      "name": "Implement Queue using Arrays",
+      "difficulty": "Easy",
+      "sheetCompleted": true,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "392",
+      "name": "Implement Stack using Queue",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "389",
+      "name": "Implement Queue using Stack",
+      "difficulty": "Easy",
+      "sheetCompleted": true,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "391",
+      "name": "Implement stack using Linkedlist",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "388",
+      "name": "Implement queue using Linkedlist",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "966",
+      "name": "Balanced Paranthesis",
+      "difficulty": "Easy",
+      "sheetCompleted": true,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "958",
+      "name": "Implement Min Stack",
+      "difficulty": "Hard",
+      "sheetCompleted": true,
+      "pattern": "Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "1223",
+      "name": "Heaps (Theory Video)",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Heaps [Learning, Medium, Hard Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "576",
+      "name": "Implement Min Heap",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Heaps [Learning, Medium, Hard Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "571",
+      "name": "Check if an array represents a min heap",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Heaps [Learning, Medium, Hard Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "572",
+      "name": "Convert Min Heap to Max Heap",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Heaps [Learning, Medium, Hard Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "2865",
+      "name": "Introduction to Trees",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Binary Trees [Traversals, Medium and Hard Problems]",
+      "subsection": "Traversals",
+      "skipReason": "Intro/theory problem name"
+    },
+    {
+      "id": "1153",
+      "name": "Introduction to BST",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Binary Search Trees [Concept and Problems]",
+      "subsection": "Concepts",
+      "skipReason": "Intro/learning subsection: Concepts"
+    },
+    {
+      "id": "2780",
+      "name": "Search in a Binary Search Tree",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Binary Search Trees [Concept and Problems]",
+      "subsection": "Concepts",
+      "skipReason": "Intro/learning subsection: Concepts"
+    },
+    {
+      "id": "2398",
+      "name": "Find Min/Max in BST",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Binary Search Trees [Concept and Problems]",
+      "subsection": "Concepts",
+      "skipReason": "Intro/learning subsection: Concepts"
+    },
+    {
+      "id": "1222",
+      "name": "Introduction to Graph",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "2870",
+      "name": "Graph Representation | C++",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "2871",
+      "name": "Graph Representation | Java",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "528",
+      "name": "Connected Components",
+      "difficulty": "Medium",
+      "sheetCompleted": false,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "529",
+      "name": "Traversal Techniques",
+      "difficulty": "Medium",
+      "sheetCompleted": true,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "2831",
+      "name": "DFS",
+      "difficulty": "Medium",
+      "sheetCompleted": true,
+      "pattern": "Graphs [Concepts & Problems]",
+      "subsection": "Learning",
+      "skipReason": "Intro/learning subsection: Learning"
+    },
+    {
+      "id": "1195",
+      "name": "Introduction to DP",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Dynamic Programming [Patterns and Problems]",
+      "subsection": "Introduction to DP",
+      "skipReason": "Intro/learning subsection: Introduction to DP"
+    },
+    {
+      "id": "1028",
+      "name": "Trie Implementation and Operations",
+      "difficulty": "Hard",
+      "sheetCompleted": false,
+      "pattern": "Tries",
+      "subsection": "Theory",
+      "skipReason": "Intro/learning subsection: Theory"
+    },
+    {
+      "id": "2399",
+      "name": "Hashing In Strings | Theory",
+      "difficulty": "Easy",
+      "sheetCompleted": false,
+      "pattern": "Strings",
+      "subsection": "Hard Problems",
+      "skipReason": "Intro/theory problem name"
+    }
+  ]
+}
