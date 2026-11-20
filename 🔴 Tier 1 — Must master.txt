@@ -1,0 +1,80 @@
+🔴 Tier 1 — Must master
+
+These are the problems I'd expect you to be able to solve without assistance:
+
+Arrays
+Two Sum
+Contains Duplicate
+Valid Anagram
+Group Anagrams
+Product of Array Except Self
+Longest Consecutive Sequence
+Maximum Subarray
+Subarray Sum Equals K
+
+Two Pointers
+Valid Palindrome
+Two Sum II
+3Sum
+Container With Most Water
+Trapping Rain Water
+
+Sliding Window
+Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
+Minimum Window Substring
+
+Stack
+Valid Parentheses
+Daily Temperatures
+Next Greater Element
+Largest Rectangle in Histogram
+
+Binary Search
+Binary Search
+Search in Rotated Sorted Array
+Find Minimum in Rotated Sorted Array
+Koko Eating Bananas
+Capacity to Ship Packages
+
+Linked List
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Remove Nth Node
+Reorder List
+Reverse Nodes in K-Group
+Merge K Sorted Lists
+
+Trees
+Maximum Depth
+Invert Binary Tree
+Diameter of Binary Tree
+Level Order Traversal
+Validate BST
+LCA
+Construct Binary Tree
+Maximum Path Sum
+Serialize/Deserialize
+
+Graph
+Number of Islands
+Clone Graph
+Course Schedule
+Rotting Oranges
+Word Ladder
+
+DP
+Climbing Stairs
+House Robber
+Coin Change
+Decode Ways
+Word Break
+Unique Paths
+LCS
+LIS
+Partition Equal Subset Sum
+
+Design
+LRU Cache
+LFU Cache

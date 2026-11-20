@@ -1,0 +1,3794 @@
+[
+  {
+    "id": "425",
+    "name": "Input Output",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/input-output?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1211",
+    "name": "Cpp Basics",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "424",
+    "name": "If ElseIf",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/if-elseif?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "429",
+    "name": "Switch Case",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/switch-case?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2869",
+    "name": "What are arrays, strings?",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2867",
+    "name": "For loops",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/for-loop?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2868",
+    "name": "While loops",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/while-loop?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2866",
+    "name": "Functions (Pass by Reference and Value)",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pass-by-ref?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1219",
+    "name": "Theory with examples",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/theory-with-examples?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1216",
+    "name": "Easy and Medium",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/easy-and-medium?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1205",
+    "name": "Hard",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/hard?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "401",
+    "name": "Pattern 1",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-1?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "412",
+    "name": "Pattern 2",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-2?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "416",
+    "name": "Pattern 3",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-3?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "417",
+    "name": "Pattern 4",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-4?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "418",
+    "name": "Pattern 5",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-5?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "419",
+    "name": "Pattern 6",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-6?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "420",
+    "name": "Pattern 7",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-7?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "421",
+    "name": "Pattern 8",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-8?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "422",
+    "name": "Pattern 9",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-9?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "402",
+    "name": "Pattern 10",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-10?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "403",
+    "name": "Pattern 11",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-11?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "404",
+    "name": "Pattern 12",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-12?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "405",
+    "name": "Pattern 13",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-13?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "406",
+    "name": "Pattern 14",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-14?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "407",
+    "name": "Pattern 15",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-15?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "408",
+    "name": "Pattern 16",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-16?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "409",
+    "name": "Pattern 17",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-17?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "410",
+    "name": "Pattern 18",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-18?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "411",
+    "name": "Pattern 19",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-19?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "413",
+    "name": "Pattern 20",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-20?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "414",
+    "name": "Pattern 21",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-21?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "415",
+    "name": "Pattern 22",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pattern-22?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1218",
+    "name": "STL",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/stl?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1217",
+    "name": "Java Collections",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/java-collections?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "367",
+    "name": "Count all Digits of a Number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-all-digits-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "376",
+    "name": "Reverse a number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/reverse-integer/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "374",
+    "name": "Palindrome Number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/palindrome-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/palindrome-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "372",
+    "name": "GCD of Two Numbers",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/gcd-of-two-numbers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "366",
+    "name": "Check if the Number is Armstrong",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/armstrong-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-the-number-if-armstrong?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2807",
+    "name": "Print all Divisors",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/divisors-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "365",
+    "name": "Check for Prime Number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-for-prime-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2401",
+    "name": "Understand recursion by print something N times",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/recursion-theory?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2405",
+    "name": "Print name N times using recursion",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/recursion-theory?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "850",
+    "name": "Print 1 to N using Recursion",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-1-to-n-using-recursion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "852",
+    "name": "Print N to 1 using Recursion",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-n-to-1-using-recursion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "386",
+    "name": "Sum of First N Numbers",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sum-of-first-n-numbers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "371",
+    "name": "Factorial of a given number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "342",
+    "name": "Reverse an array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "378",
+    "name": "Check if String is Palindrome or Not",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/valid-palindrome/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-string-is-palindrome-or-not-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "381",
+    "name": "Fibonacci Number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/fibonacci-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/fibonacci-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1203",
+    "name": "Basic Hashing",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/basic-hashing?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "252",
+    "name": "Counting Frequencies of Array Elements",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/counting-frequencies-of-array-elements?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "344",
+    "name": "Highest Occurring Element in an Array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/highest-occurring-element-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "947",
+    "name": "Selection Sort",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/selection-sort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "943",
+    "name": "Bubble Sort",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bubble-sort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "944",
+    "name": "Insertion Sorting",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/insertion-sorting?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "945",
+    "name": "Merge Sorting",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/merge-sorting?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "881",
+    "name": "Recursive Bubble Sort",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/recursive-bubble-sort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "882",
+    "name": "Recursive Insertion Sort",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/recursive-insertion-sort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "946",
+    "name": "Quick Sorting",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/quick-sorting?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "38",
+    "name": "Largest Element",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-element?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "43",
+    "name": "Second Largest Element",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/second-largest-element?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "379",
+    "name": "Check if the Array is Sorted II",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-the-array-is-sorted-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2764",
+    "name": "Remove duplicates from Sorted array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/#:~:text=Input%3A%20nums%20%3D%20%5B0%2C,%2C%203%2C%20and%204%20respectively.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "40",
+    "name": "Left Rotate Array by One",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/rotate-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/left-rotate-array-by-one?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "39",
+    "name": "Left Rotate Array by K Places",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/rotate-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/left-rotate-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "46",
+    "name": "Move Zeros to End",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/move-zeroes/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/move-zeros-to-end?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "41",
+    "name": "Linear Search",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/linear-search?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "48",
+    "name": "Union of two sorted arrays",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "44",
+    "name": "Find missing number",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-missing-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "42",
+    "name": "Maximum Consecutive Ones",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/max-consecutive-ones/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2793",
+    "name": "Find the number that appears once, and other numbers twice.",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/single-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/single-number---i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2836",
+    "name": "Longest subarray with given sum K(positives)",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "564",
+    "name": "Longest subarray with sum K",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "37",
+    "name": "Two Sum",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/two-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/two-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2762",
+    "name": "Sort an array of 0's 1's and 2's",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sort-colors/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0&#39;s-1&#39;s-and-2&#39;s?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "22",
+    "name": "Majority Element-I",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/majority-element/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/majority-element-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "29",
+    "name": "Kadane's Algorithm",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-subarray/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kadane&#39;s-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2761",
+    "name": "Print subarray with maximum subarray sum (extended version of above problem)",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kadane&#39;s-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2798",
+    "name": "Stock Buy and Sell",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "34",
+    "name": "Rearrange array elements by sign",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rearrange-array-elements-by-sign?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "31",
+    "name": "Next Permutation",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/next-permutation/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/next-permutation?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "30",
+    "name": "Leaders in an Array",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/leaders-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2835",
+    "name": "Longest Consecutive Sequence in an Array",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-consecutive-sequence/solution/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "911",
+    "name": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/set-matrix-zeroes/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/set-matrix-zeroes?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "35",
+    "name": "Rotate matrix by 90 degrees",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/rotate-image/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "33",
+    "name": "Print the matrix in spiral manner",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/spiral-matrix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-the-matrix-in-spiral-manner?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "561",
+    "name": "Count subarrays with given sum",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "813",
+    "name": "Pascal's Triangle I",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/pascals-triangle/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pascals-triangle-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "23",
+    "name": "Majority Element-II",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/majority-element-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/majority-element-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "27",
+    "name": "3 Sum",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/3sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/3-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "28",
+    "name": "4 Sum",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/4sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/4-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "605",
+    "name": "Largest Subarray with Sum 0",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-subarray-with-sum-0?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "562",
+    "name": "Count subarrays with given xor K",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "715",
+    "name": "Merge Overlapping Subintervals",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/merge-intervals/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "25",
+    "name": "Merge two sorted arrays without extra space",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/merge-sorted-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "21",
+    "name": "Find the repeating and missing number",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "20",
+    "name": "Count Inversions",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-inversions?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "26",
+    "name": "Reverse Pairs",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/reverse-pairs/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-pairs?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "24",
+    "name": "Maximum Product Subarray in an Array",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-product-subarray/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-product-subarray-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "81",
+    "name": "Search X in sorted array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-search/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-x-in-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "80",
+    "name": "Lower Bound",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lower-bound-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "82",
+    "name": "Upper Bound",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/upper-bound?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "89",
+    "name": "Search insert position",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/search-insert-position/#:~:text=Search%20Insert%20Position%20%2D%20LeetCode&amp;text=Given%20a%20sorted%20array%20of,(log%20n)%20runtime%20complexity.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-insert-position?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "86",
+    "name": "Floor and Ceil in Sorted Array",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "85",
+    "name": "First and last occurrence",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/first-and-last-occurrence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "229",
+    "name": "Count Occurrences in a Sorted Array",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "87",
+    "name": "Search in rotated sorted array-I",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "88",
+    "name": "Search in rotated sorted array-II",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-2?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "83",
+    "name": "Find minimum in Rotated Sorted Array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-minimum-in-rotated-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "84",
+    "name": "Find out how many times the array is rotated",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2770",
+    "name": "Single element in a Sorted Array",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "75",
+    "name": "Find peak element",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-peak-element/#:~:text=Find%20Peak%20Element%20%2D%20LeetCode&amp;text=A%20peak%20element%20is%20an,to%20any%20of%20the%20peaks.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-peak-element?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "92",
+    "name": "Find square root of a number",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "91",
+    "name": "Find Nth root of a number",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "94",
+    "name": "Koko eating bananas",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/koko-eating-bananas/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/koko-eating-bananas?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "95",
+    "name": "Minimum days to make M bouquets",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-days-to-make-m-bouquets?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "93",
+    "name": "Find the smallest divisor",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-smallest-divisor?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "161",
+    "name": "Capacity to Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/capacity-to-ship-packages-within-d-days?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "600",
+    "name": "Kth Missing Positive Number",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/kth-missing-positive-number/#:~:text=Given%20an%20array%20arr%20of,13%2C...%5D.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kth-missing-positive-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "73",
+    "name": "Aggressive Cows",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/aggressive-cows?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "74",
+    "name": "Book Allocation Problem",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/book-allocation-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "79",
+    "name": "Split array - largest sum",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/split-array-largest-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/split-array---largest-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "805",
+    "name": "Painter's Partition",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/painters-partition?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "78",
+    "name": "Minimize Max Distance to Gas Station",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimise-max-distance-to-gas-stations?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "77",
+    "name": "Median of 2 sorted arrays",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2767",
+    "name": "Kth element of 2 sorted arrays",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "66",
+    "name": "Find row with maximum 1's",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1&#39;s?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "69",
+    "name": "Search in a 2D matrix",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/search-a-2d-matrix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "68",
+    "name": "Search in 2D matrix - II",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-2d-matrix-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "65",
+    "name": "Find Peak Element - II",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-a-peak-element-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-peak-element-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "67",
+    "name": "Matrix Median",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/matrix-median?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "892",
+    "name": "Remove Outermost Parentheses",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/remove-outermost-parentheses/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/remove-outermost-parentheses?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2863",
+    "name": "Reverse words in a given string / Palindrome Check",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "394",
+    "name": "Largest Odd Number in a String",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/largest-odd-number-in-string/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-odd-number-in-a-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "395",
+    "name": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/longest-common-prefix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-common-prefix?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "393",
+    "name": "Isomorphic String",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/isomorphic-strings/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/isomorphic-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "398",
+    "name": "Rotate String",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/rotate-string/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rotate-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2809",
+    "name": "Check if two strings are anagram of each other",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/valid-anagram/#:~:text=Given%20two%20strings%20s%20and,the%20original%20letters%20exactly%20once.&amp;text=Constraints%3A,.length%20%3C%3D%205%20*%2010",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/valid-anagram?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "399",
+    "name": "Sort Characters by Frequency",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sort-characters-by-frequency?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "674",
+    "name": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-nesting-depth-of-the-parentheses?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "903",
+    "name": "Roman to Integer",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/roman-to-integer/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/roman-to-integer?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "974",
+    "name": "String to Integer (atoi)",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2394",
+    "name": "Count Number of Substrings",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "638",
+    "name": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-palindromic-substring/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-palindromic-substring?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "993",
+    "name": "Sum of Beauty of All Substrings",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sum-of-beauty-of-all-substrings?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "984",
+    "name": "Reverse every word in a string",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/reverse-words-in-a-string/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1237",
+    "name": "Introduction to Singly LinkedList",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-singly-linkedlist?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "356",
+    "name": "Insertion at the head of Linked List",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "352",
+    "name": "Deletion of the head of LL",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/deletion-of-the-head-of-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "470",
+    "name": "Find the length of the Linked List",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-length-of-the-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "905",
+    "name": "Search in Linked List",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1234",
+    "name": "Introduction to Doubly LL",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-doubly-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "361",
+    "name": "Insert node before head in Doubly Linked List",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/insert-node-before-head-in-dll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "348",
+    "name": "Delete head of Doubly Linked List",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/delete-head-of-dll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "900",
+    "name": "Reverse a Doubly Linked List",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-a-doubly-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2810",
+    "name": "Middle of a LinkedList [TortoiseHare Method]",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-middle-of-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2850",
+    "name": "Reverse a LinkedList [Iterative]",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "627",
+    "name": "Reverse a LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/reverse-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2845",
+    "name": "Detect a loop in LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/linked-list-cycle/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2847",
+    "name": "Find the starting point in LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "623",
+    "name": "Length of loop in LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2844",
+    "name": "Check if LL is palindrome or not",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/palindrome-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "628",
+    "name": "Segregate odd and even nodes in Linked List",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/odd-even-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/segregate-odd-and-even-nodes-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2849",
+    "name": "Remove Nth node from the back of the LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "619",
+    "name": "Delete the middle node in LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/#:~:text=You%20are%20given%20the%20head,than%20or%20equal%20to%20x%20.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/delete-the-middle-node-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "616",
+    "name": "Sort LL",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/sort-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sort-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "629",
+    "name": "Sort a Linked List of 0's 1's and 2's",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0&#39;s-1&#39;s-and-2&#39;s?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2846",
+    "name": "Find the intersection point of Y LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "617",
+    "name": "Add one to a number represented by LL",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "625",
+    "name": "Add two numbers in Linked List",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/add-two-numbers/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "609",
+    "name": "Delete all occurrences of a key in DLL",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/delete-all-occurrences-of-a-key-in-dll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "452",
+    "name": "Find Pairs with Given Sum in Doubly Linked List",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-pairs-with-given-sum-in-doubly-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "610",
+    "name": "Remove duplicates from sorted DLL",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/remove-duplicated-from-sorted-dll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2842",
+    "name": "Reverse LL in group of given size K",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-ll-in-group-of-given-size-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2843",
+    "name": "Rotate a LL",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/rotate-list/description/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rotate-a-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2841",
+    "name": "Flattening of LL",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/flattening-of-ll?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "611",
+    "name": "Clone a LL with random and next pointer",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/clone-a-ll-with-random-and-next-pointer?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2862",
+    "name": "Recursive Implementation of atoi()",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/string-to-integer-atoi/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2855",
+    "name": "Pow(x, n)",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/powx-n/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "222",
+    "name": "Count Good Numbers",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-good-numbers/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-good-numbers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2858",
+    "name": "Sort a stack using recursion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "901",
+    "name": "Reverse a Stack",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/reverse-a-stack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "493",
+    "name": "Generate Binary Strings Without Consecutive 1s",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/generate-binary-strings-without-consecutive-1s?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "876",
+    "name": "Generate Parentheses",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/generate-parentheses/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/generate-parentheses?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "878",
+    "name": "Power Set",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/power-set?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2400",
+    "name": "Learn All Patterns of Subsequences (Theory)",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "880",
+    "name": "Count all subsequences with sum K",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "879",
+    "name": "Check if there exists a subsequence with sum K",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "864",
+    "name": "Combination Sum",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/combination-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/combination-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "865",
+    "name": "Combination Sum II",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/combination-sum-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/combination-sum-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "867",
+    "name": "Subsets I",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/subsets-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "868",
+    "name": "Subsets II",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/subsets-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/subsets-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "866",
+    "name": "Combination Sum III",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/combination-sum-iii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/combination-sum-iii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "875",
+    "name": "Letter Combinations of a Phone Number",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/letter-combinations-of-a-phone-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "871",
+    "name": "Palindrome partitioning",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/palindrome-partitioning?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "874",
+    "name": "Word Search",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/word-search/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/word-search?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "870",
+    "name": "N Queen",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/n-queens/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/n-queen?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "872",
+    "name": "Rat in a Maze",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rat-in-a-maze?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "4",
+    "name": "Word Break",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/word-break?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "869",
+    "name": "M Coloring Problem",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/m-coloring-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "873",
+    "name": "Sudoku Solver",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/sudoku-solver/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sudoko-solver?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "3",
+    "name": "Expression Add Operators",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/expression-add-operators/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/expression-add-operators?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1155",
+    "name": "Introduction to Bits and Tricks",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-bits-and-tricks?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "177",
+    "name": "Check if the i-th bit is Set or Not",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "171",
+    "name": "Check if a Number is Odd or Not",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-odd-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "172",
+    "name": "Check if a Number is Power of 2 or Not",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/power-of-two/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-power-of-2-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "243",
+    "name": "Count the Number of Set Bits",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-the-number-of-set-bits?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2410",
+    "name": "Set/Unset the rightmost unset bit",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "1005",
+    "name": "Swap Two Numbers",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/swap-two-numbers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "140",
+    "name": "Divide two numbers without multiplication and division",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/divide-two-integers/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/divide-two-numbers-without-multiplication-and-division?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "141",
+    "name": "Minimum Bit Flips to Convert Number",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-bit-flips-to-convert-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "143",
+    "name": "Single Number - I",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/single-number/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/single-number---i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "142",
+    "name": "Power Set Bit Manipulation",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/subsets/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/power-set-bit-manipulation?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "146",
+    "name": "XOR of numbers in a given range",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/xor-of-numbers-in-a-given-range?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "145",
+    "name": "Single Number - III",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/single-number---iii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2853",
+    "name": "Print Prime Factors of a Number",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "370",
+    "name": "Divisors of a Number",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/divisors-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "651",
+    "name": "Count primes in range L to R",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-primes/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-primes-in-range-l-to-r?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "652",
+    "name": "Prime factorisation of a Number",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "877",
+    "name": "Pow(x,n)",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/powx-n/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "390",
+    "name": "Implement Stack using Arrays",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "387",
+    "name": "Implement Queue using Arrays",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "392",
+    "name": "Implement Stack using Queue",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/implement-stack-using-queues/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-stack-using-queue?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "389",
+    "name": "Implement Queue using Stack",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/implement-queue-using-stacks/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-queue-using-stack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "391",
+    "name": "Implement stack using Linkedlist",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-stack-using-linkedlist?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "388",
+    "name": "Implement queue using Linkedlist",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-queue-using-linkedlist?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "966",
+    "name": "Balanced Paranthesis",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/valid-parentheses/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/balanced-paranthesis?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "958",
+    "name": "Implement Min Stack",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/min-stack/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-min-stack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "586",
+    "name": "Infix to Postfix Conversion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/infix-to-postfix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "848",
+    "name": "Prefix to Infix Conversion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/prefix-to-infix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "849",
+    "name": "Prefix to Postfix Conversion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/prefix-to-postfix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "825",
+    "name": "Postfix to Prefix Conversion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/postfix-to-prefix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "824",
+    "name": "Postfix to Infix Conversion",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/postfix-to-infix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "587",
+    "name": "Infix to Prefix Conversion",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/infix-to-prefix-conversion?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "968",
+    "name": "Next Greater Element",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/next-greater-element-i/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/next-greater-element?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "969",
+    "name": "Next Greater Element - 2",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/next-greater-element-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/next-greater-element---2?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "768",
+    "name": "Next Smaller Element",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/next-smaller-element?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "285",
+    "name": "Number of Greater Elements to the Right",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-greater-elements-to-the-right?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "965",
+    "name": "Trapping Rainwater",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/trapping-rain-water/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/trapping-rainwater?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "971",
+    "name": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sum-of-subarray-minimums?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "967",
+    "name": "Asteroid Collision",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/asteroid-collision/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/asteroid-collision?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "972",
+    "name": "Sum of Subarray Ranges",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sum-of-subarray-ranges?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "970",
+    "name": "Remove K Digits",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/remove-k-digits/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/remove-k-digits?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "959",
+    "name": "Largest rectangle in a histogram",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-rectangle-in-a-histogram?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "962",
+    "name": "Maximum Rectangles",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-rectangles?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "963",
+    "name": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/sliding-window-maximum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/sliding-window-maximum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "964",
+    "name": "Stock span problem",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/online-stock-span/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/stock-span-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "957",
+    "name": "Celebrity Problem",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/accounts/login/?next=/problems/find-the-celebrity/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/celebrity-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "961",
+    "name": "LRU Cache",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lru-cache?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "960",
+    "name": "LFU Cache",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/lfu-cache/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lfu-cache?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2857",
+    "name": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-substring-without-repeating-characters?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "930",
+    "name": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/max-consecutive-ones-iii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "926",
+    "name": "Fruit Into Baskets",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/fruit-into-baskets?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "927",
+    "name": "Longest Repeating Character Replacement",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-repeating-character-replacement?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "923",
+    "name": "Binary Subarrays With Sum",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/binary-subarrays-with-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "924",
+    "name": "Count number of Nice subarrays",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-number-of-nice-subarrays?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "925",
+    "name": "Number of Substrings Containing All Three Characters",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-substrings-containing-all-three-characters?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "922",
+    "name": "Maximum Points You Can Obtain from Cards",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-points-you-can-obtain-from-cards-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "928",
+    "name": "Longest Substring With At Most K Distinct Characters",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-substring-with-at-most-k-distinct-characters?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "988",
+    "name": "Subarrays with K Different Integers",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/subarrays-with-k-different-integers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "931",
+    "name": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimum-window-substring/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-window-substring-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "754",
+    "name": "Minimum Window Subsequence",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimum-window-subsequence/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-window-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1223",
+    "name": "Heaps (Theory Video)",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/heaps-theory?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "576",
+    "name": "Implement Min Heap",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/implement-min-heap?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "571",
+    "name": "Check if an array represents a min heap",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-an-array-represents-a-min-heap-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "572",
+    "name": "Convert Min Heap to Max Heap",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/convert-min-heap-to-max-heap?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "578",
+    "name": "K-th Largest element in an array",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2840",
+    "name": "Kth smallest element in an array [use priority queue]",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kth-smallest-element-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2409",
+    "name": "Sort K sorted array",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "569",
+    "name": "Merge K sorted Lists",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/merge-k-sorted-lists/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/merge-k-sorted-lists?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "898",
+    "name": "Replace Elements by Their Rank",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/replace-elements-by-their-rank?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1008",
+    "name": "Task Scheduler",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/task-scheduler/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/task-scheduler?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "556",
+    "name": "Hand of Straights",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/hand-of-straights/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/hand-of-straights?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "565",
+    "name": "Design Twitter",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/design-twitter/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/design-twitter?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "755",
+    "name": "Minimum Cost to Connect Sticks",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-cost-to-connect-sticks?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2838",
+    "name": "Kth largest element in a stream of running integers",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/kth-largest-element-in-a-stream/#:~:text=Implement%20KthLargest%20class%3A,largest%20element%20in%20the%20stream.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kth-largest-element-in-a-stream-of-running-integers?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "568",
+    "name": "Maximum Sum Combination",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-sum-combination?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "566",
+    "name": "Find Median from Data Stream",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-median-from-data-stream/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-median-from-data-stream?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1018",
+    "name": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/top-k-frequent-elements/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/top-k-frequent-elements?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2834",
+    "name": "Assign Cookies",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/assign-cookies/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/assign-cookies?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "489",
+    "name": "Fractional Knapsack",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/fractional-knapsack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "543",
+    "name": "Lemonade Change",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/lemonade-change/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lemonade-change?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "545",
+    "name": "Valid Paranthesis Checker",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/valid-parenthesis-string/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/valid-paranthesis-checker?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "549",
+    "name": "N meetings in one room",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "542",
+    "name": "Jump Game - I",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/jump-game/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/jump-game---i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "595",
+    "name": "Jump Game II",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/jump-game-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/jump-game-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "548",
+    "name": "Minimum number of platforms required for a railway",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "547",
+    "name": "Job sequencing Problem",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "544",
+    "name": "Candy",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/candy/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/candy?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "551",
+    "name": "Shortest Job First",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/shortest-job-first?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2859",
+    "name": "Program for Least Recently Used (LRU) Page Replacement Algorithm",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lru-cache?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "546",
+    "name": "Insert Interval",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/insert-interval/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/insert-interval?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "712",
+    "name": "Merge Intervals",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/merge-intervals/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/merge-intervals?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "550",
+    "name": "Non-overlapping Intervals",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/non-overlapping-intervals/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/non-overlapping-intervals?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2865",
+    "name": "Introduction to Trees",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2864",
+    "name": "Binary Tree Representation in Java",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "136",
+    "name": "Pre, Post, Inorder in one traversal",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "137",
+    "name": "Preorder Traversal",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/preorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2785",
+    "name": "Inorder Traversal of Binary Tree",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/inorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "135",
+    "name": "Postorder Traversal",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "134",
+    "name": "Level Order Traversal",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/level-order-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2872",
+    "name": "Iterative Preorder Traversal of Binary Tree",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/preorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2786",
+    "name": "Iterative Inorder Traversal of Binary Tree",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/inorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2788",
+    "name": "Post-order Traversal of Binary Tree using 2 stack",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2787",
+    "name": "Post-order Traversal of Binary Tree using 1 stack",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2789",
+    "name": "Preorder, Inorder, and Postorder Traversal in one Traversal",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "131",
+    "name": "Maximum Depth in BT",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "127",
+    "name": "Check for balanced binary tree",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/balanced-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "130",
+    "name": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/diameter-of-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "132",
+    "name": "Maximum path sum",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-path-sum-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "129",
+    "name": "Check if two trees are identical or not",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/same-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-two-trees-are-identical-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "126",
+    "name": "Zig Zag or Spiral Traversal",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/zig-zag-or-spiral-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "116",
+    "name": "Boundary Traversal",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/boundary-of-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/boundary-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "125",
+    "name": "Vertical Order Traversal",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/vertical-order-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "124",
+    "name": "Top View of BT",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/top-view-of-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "115",
+    "name": "Bottom view of BT",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bottom-view-of-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2782",
+    "name": "Right/Left View of Binary Tree",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-right-side-view/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2784",
+    "name": "Symmetric Binary Tree",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/symmetric-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-for-symmetrical-bts?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "122",
+    "name": "Print root to leaf path in BT",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "118",
+    "name": "LCA in BT",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lca-in-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "119",
+    "name": "Maximum Width of BT",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-width-of-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "185",
+    "name": "Children Sum Property in Binary Tree",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/children-sum-property-in-binary-tree?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "121",
+    "name": "Print all nodes at a distance of K in BT",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-all-nodes-at-a-distance-of-k-in-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "120",
+    "name": "Minimum time taken to burn the BT from a given Node",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-time-taken-to-burn-the-bt-from-a-given-node?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "117",
+    "name": "Count total nodes in a complete BT",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-complete-tree-nodes/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-total-nodes-in-a-complete-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "111",
+    "name": "Requirements needed to construct a unique BT",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/requirements-needed-to-construct-a-unique-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "110",
+    "name": "Construct a BT from Preorder and Inorder",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-preorder-and-inorder?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2781",
+    "name": "Construct the Binary Tree from Postorder and Inorder Traversal",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-postorder-and-inorder?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "112",
+    "name": "Serialize and De-serialize BT",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/serialize-and-de-serialize-bt?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2791",
+    "name": "Morris Preorder Traversal of a Binary Tree",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2792",
+    "name": "Morris Inorder Traversal of a Binary Tree",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/morris-inorder-traversal-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "486",
+    "name": "Flatten Binary Tree to Linked List",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/flatten-binary-tree-to-linked-list?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1153",
+    "name": "Introduction to BST",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2780",
+    "name": "Search in a Binary Search Tree",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/search-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2398",
+    "name": "Find Min/Max in BST",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "107",
+    "name": "Floor and Ceil in a BST",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2778",
+    "name": "Floor in a Binary Search Tree",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "104",
+    "name": "Insert a given node in BST",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/insert-a-given-node-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "102",
+    "name": "Delete a node in BST",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/delete-node-in-a-bst/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/delete-a-node-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "105",
+    "name": "Kth Smallest and Largest element in BST",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "100",
+    "name": "Check if a tree is a BST or not",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/validate-binary-search-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/check-if-a-tree-is-a-bst-or-not?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "106",
+    "name": "LCA in BST",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/lca-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "101",
+    "name": "Construct a BST from a preorder traversal",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/construct-a-bst-from-a-preorder-traversal?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2775",
+    "name": "Inorder Successor/Predecessor in BST",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/inorder-successor-in-bst/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2772",
+    "name": "Merge 2 BST's",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/binary-search-tree-iterator/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bst-iterator?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2774",
+    "name": "Two Sum In BST | Check if there exists a pair with Sum K",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/two-sum-in-bst?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "97",
+    "name": "Correct BST with two nodes swapped",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/recover-binary-search-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/correct-bst-with-two-nodes-swapped?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "98",
+    "name": "Largest BST in Binary Tree",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-bst-in-binary-tree?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1222",
+    "name": "Introduction to Graph",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2870",
+    "name": "Graph Representation | C++",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2871",
+    "name": "Graph Representation | Java",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "528",
+    "name": "Connected Components",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/connected-components?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "529",
+    "name": "Traversal Techniques",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/traversal-techniques?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2831",
+    "name": "DFS",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/traversal-techniques?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "535",
+    "name": "Number of provinces",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-provinces/#:~:text=A%20province%20is%20a%20group,the%20total%20number%20of%20provinces.",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-provinces?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2830",
+    "name": "Connected Components Problem in Matrix",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/connected-components?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "536",
+    "name": "Rotten Oranges",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/rotting-oranges/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rotten-oranges?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "531",
+    "name": "Flood fill algorithm",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/flood-fill/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/flood-fill-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2817",
+    "name": "Cycle Detection in Undirected Graph (bfs)",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-an-undirected-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "501",
+    "name": "Detect a cycle in an undirected graph",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/course-schedule/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-an-undirected-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "530",
+    "name": "Distance of nearest cell having one",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/01-matrix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/distance-of-nearest-cell-having-one?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "537",
+    "name": "Surrounded Regions",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/surrounded-regions/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/surrounded-regions?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "533",
+    "name": "Number of enclaves",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-enclaves/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-enclaves?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "509",
+    "name": "Word ladder I",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/word-ladder/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/word-ladder-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "510",
+    "name": "Word ladder II",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/word-ladder-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/word-ladder-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "534",
+    "name": "Number of islands",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-islands/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-islands?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2813",
+    "name": "Bipartite Graph (DFS)",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/is-graph-bipartite/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bipartite-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2814",
+    "name": "Cycle Detection in Directed Graph (DFS)",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2822",
+    "name": "Topo Sort",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "502",
+    "name": "Topological sort or Kahn's algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "500",
+    "name": "Detect a cycle in a directed graph",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/course-schedule/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "504",
+    "name": "Course Schedule I",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/course-schedule/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/course-schedule-i?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "505",
+    "name": "Course Schedule II",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/course-schedule-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/course-schedule-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "506",
+    "name": "Find eventual safe states",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-eventual-safe-states/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-eventual-safe-states?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "503",
+    "name": "Alien Dictionary",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/alien-dictionary/solution/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/alient-dictionary?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "508",
+    "name": "Shortest path in undirected graph with unit weights",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/shortest-path-in-undirected-graph-with-unit-weights?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "507",
+    "name": "Shortest path in DAG",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/shortest-path-in-dag?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2827",
+    "name": "Djisktra's Algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/dijkstra&#39;s-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2828",
+    "name": "Why priority Queue is used in Djisktra's Algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/dijkstra&#39;s-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "527",
+    "name": "Shortest Distance in a Binary Maze",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/shortest-path-with-minimum-effort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "525",
+    "name": "Path with minimum effort",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/path-with-minimum-effort/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/path-with-minimum-effort?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "519",
+    "name": "Cheapest flight within K stops",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/cheapest-flight-within-k-stops?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "764",
+    "name": "Network Delay Time",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/network-delay-time/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/network-delay-time?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "524",
+    "name": "Number of ways to arrive at destination",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-ways-to-arrive-at-destination?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "523",
+    "name": "Minimum multiplications to reach end",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-multiplications-to-reach-end?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2826",
+    "name": "Bellman Ford Algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bellman-ford-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "522",
+    "name": "Floyd warshall algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/floyd-warshall-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "521",
+    "name": "Find the city with the smallest number of neighbors",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-city-with-the-smallest-number-of-neighbors?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1221",
+    "name": "MST theory",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/mst-theory?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2825",
+    "name": "Prim's Algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-mst-weight?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "516",
+    "name": "Disjoint Set",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/disjoint-set-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "517",
+    "name": "Find the MST weight",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/find-the-mst-weight?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "515",
+    "name": "Number of operations to make network connected",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-operations-to-make-network-connected?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "513",
+    "name": "Most stones removed with same row or column",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/most-stones-removed-with-same-row-or-column?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "511",
+    "name": "Accounts merge",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/accounts-merge/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/accounts-merge?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "514",
+    "name": "Number of islands II",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-islands-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-islands-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "512",
+    "name": "Making a large island",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/making-a-large-island/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/making-a-large-island?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1006",
+    "name": "Swim in Rising Water",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/swim-in-rising-water/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/swim-in-rising-water?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "497",
+    "name": "Bridges in graph",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/bridges-in-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "496",
+    "name": "Articulation point in graph",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/articulation-point-in-graph?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "498",
+    "name": "Kosaraju's algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kosaraju&#39;s-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1195",
+    "name": "Introduction to DP",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/introduction-to-dp?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "287",
+    "name": "Climbing stairs",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/climbing-stairs/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/climbing-stairs?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "288",
+    "name": "Frog Jump",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/frog-jump?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "289",
+    "name": "Frog jump with K distances",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "291",
+    "name": "Maximum sum of non adjacent elements",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/house-robber/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-sum-of-non-adjacent-elements?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "290",
+    "name": "House robber",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/house-robber-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/house-robber?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "292",
+    "name": "Ninja's training",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/ninja&#39;s-training?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2795",
+    "name": "Grid Unique Paths : DP on Grids (DP8)",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/unique-paths/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/grid-unique-paths?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "300",
+    "name": "Unique paths II",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/unique-paths-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/unique-paths-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "298",
+    "name": "Minimum Falling Path Sum",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/minimum-path-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-falling-path-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "299",
+    "name": "Triangle",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/triangle/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/triangle?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "769",
+    "name": "Ninja and his Friends",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/ninja-and-his-friends?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2804",
+    "name": "Subset sum equal to target (DP- 14)",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "321",
+    "name": "Partition equal subset sum",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/partition-equal-subset-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/partition-equal-subset-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "320",
+    "name": "Partition a set into two subsets with minimum absolute sum difference",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/partition-a-set-into-two-subsets-with-minimum-absolute-sum-difference?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "318",
+    "name": "Count subsets with sum K",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-subsets-with-sum-k?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "317",
+    "name": "Count partitions with given difference",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-partitions-with-given-difference?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "541",
+    "name": "Assign Cookies",
+    "difficulty": "Easy",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/assign-cookies/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/assign-cookies?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2802",
+    "name": "Minimum Coins (DP - 20)",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/coin-change/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-coins?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "324",
+    "name": "Target sum",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/target-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/target-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2801",
+    "name": "Coin Change 2 (DP - 22)",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/coin-change-2/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/coin-change-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "325",
+    "name": "Unbounded knapsack",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/unbounded-knapsack?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2803",
+    "name": "Rod Cutting Problem | (DP - 24)",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rod-cutting-problem?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "308",
+    "name": "Longest common subsequence",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-common-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2799",
+    "name": "Print Longest Common Subsequence | (DP - 26)",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-common-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "309",
+    "name": "Longest common substring",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-common-substring?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "310",
+    "name": "Longest palindromic subsequence",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-palindromic-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2800",
+    "name": "Minimum insertions to make string palindrome | DP-29",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-insertions-to-make-string-palindrome?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "311",
+    "name": "Minimum insertions or deletions to convert string A to B",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-insertions-or-deletions-to-convert-string-a-to-b?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "313",
+    "name": "Shortest common supersequence",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/shortest-common-supersequence/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/shortest-common-supersequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "306",
+    "name": "Distinct subsequences",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/distinct-subsequences/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/distinct-subsequences?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "307",
+    "name": "Edit distance",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/edit-distance/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/edit-distance?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "314",
+    "name": "Wildcard matching",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/wildcard-matching/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/wildcard-matching?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "301",
+    "name": "Best time to buy and sell stock",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "302",
+    "name": "Best time to buy and sell stock II",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-ii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "303",
+    "name": "Best time to buy and sell stock III",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-iii?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "304",
+    "name": "Best time to buy and sell stock IV",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-iv?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "56",
+    "name": "Best Time to Buy and Sell Stock with Cooldown",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-with-cooldown?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "305",
+    "name": "Best time to buy and sell stock with transaction fees",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock-with-cooldown-and-transaction-fees?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "636",
+    "name": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-increasing-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "851",
+    "name": "Print Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/print-longest-increasing-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2851",
+    "name": "Longest Increasing Subsequence |(DP-43)",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-increasing-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "603",
+    "name": "Largest Divisible Subset",
+    "difficulty": "Medium",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/largest-divisible-subset/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/largest-divisible-subset?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "640",
+    "name": "Longest String Chain",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-string-chain/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-string-chain?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "633",
+    "name": "Longest Bitonic Subsequence",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-bitonic-subsequence?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "780",
+    "name": "Number of Longest Increasing Subsequences",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-longest-increasing-subsequences?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "327",
+    "name": "Matrix chain multiplication",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/matrix-chain-multiplication?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2806",
+    "name": "Matrix Chain Multiplication | Bottom-Up|(DP-49)",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/matrix-chain-multiplication?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "328",
+    "name": "Minimum cost to cut the stick",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-cost-to-cut-the-stick?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "326",
+    "name": "Burst balloons",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/burst-balloons/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/burst-balloons?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "276",
+    "name": "Different Ways to Evaluate a Boolean Expression",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/different-ways-to-evaluate-a-boolean-expression?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "329",
+    "name": "Palindrome partitioning II",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/palindrome-partitioning-ii-?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "810",
+    "name": "Partition Array for Maximum Sum",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/partition-array-for-maximum-sum?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2860",
+    "name": "Maximum Rectangle Area with all 1's|(DP-55)",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximal-rectangle/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-rectangles?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2395",
+    "name": "Count Square Submatrices with All Ones|(DP-56)",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+    "tuf_solve": null
+  },
+  {
+    "id": "1028",
+    "name": "Trie Implementation and Operations",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/trie-implementation-and-operations?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1027",
+    "name": "Trie Implementation and Advanced Operations",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/trie-implementation-and-advanced-operations?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1023",
+    "name": "Longest Word with All Prefixes",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-word-with-all-prefixes?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1026",
+    "name": "Number of distinct substrings in a string",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/number-of-distinct-substrings-in-a-string?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2390",
+    "name": "Bit PreRequisites for TRIE Problems",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "1024",
+    "name": "Maximum XOR of two numbers in an array",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-xor-of-two-numbers-in-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "1025",
+    "name": "Maximum Xor with an element from an array",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/maximum-xor-with-an-element-from-an-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "983",
+    "name": "Minimum number of bracket reversals to make an expression balanced",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/minimum-number-of-bracket-reversals-to-make-an-expression-balanced?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "982",
+    "name": "Count and say",
+    "difficulty": "Hard",
+    "completed": true,
+    "leetcode": "https://leetcode.com/problems/count-and-say/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-and-say?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "2399",
+    "name": "Hashing In Strings | Theory",
+    "difficulty": "Easy",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "979",
+    "name": "Rabin Karp Algorithm",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/rabin-karp-algorithm?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "981",
+    "name": "Z function",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "977",
+    "name": "KMP Algorithm or LPS array",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/implement-strstr/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/kmp-algorithm-or-lps-array?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "980",
+    "name": "Shortest Palindrome",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": null,
+    "tuf_solve": null
+  },
+  {
+    "id": "978",
+    "name": "Longest happy prefix",
+    "difficulty": "Hard",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/longest-happy-prefix/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/longest-happy-prefix?source=strivers-a2z-dsa-track"
+  },
+  {
+    "id": "231",
+    "name": "Count Palindromic Subsequences",
+    "difficulty": "Medium",
+    "completed": false,
+    "leetcode": "https://leetcode.com/problems/count-palindromic-subsequences/",
+    "tuf_solve": "https://takeuforward.org/plus/dsa/problems/count-palindromic-subsequences?source=strivers-a2z-dsa-track"
+  }
+]

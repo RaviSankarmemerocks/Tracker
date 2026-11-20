@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DSA Pattern Tracker</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <h1>DSA Tracker</h1>
+        <p class="subtitle">Pick 4 per set · saved to JSON</p>
+      </div>
+
+      <div class="overall-progress">
+        <div class="progress-header">
+          <span>Overall</span>
+          <span id="overall-count">0 / 0</span>
+        </div>
+        <div class="progress-bar"><div id="overall-bar" class="progress-fill"></div></div>
+        <div class="stats-row">
+          <div><strong id="stat-streak">0</strong><span>day streak</span></div>
+          <div><strong id="stat-days">0</strong><span>days logged</span></div>
+          <div><strong id="stat-eta">—</strong><span>days left</span></div>
+        </div>
+      </div>
+
+      <nav class="nav">
+        <button class="nav-btn active" data-view="today">Today</button>
+        <button class="nav-btn" data-view="patterns">Patterns</button>
+        <button class="nav-btn" data-view="weak" id="nav-weak">Weak</button>
+        <button class="nav-btn" data-view="completed" id="nav-completed">Completed</button>
+        <button class="nav-btn" data-view="skipped">Skipped (104)</button>
+        <button class="nav-btn" data-view="history">History</button>
+      </nav>
+
+      <div id="pattern-list" class="pattern-list"></div>
+    </aside>
+
+    <main class="main">
+      <section id="view-today" class="view active">
+        <header class="page-header">
+          <div>
+            <h2 id="today-title">Today</h2>
+            <p class="muted" id="today-date"></p>
+            <p class="current-pattern" id="current-pattern"></p>
+          </div>
+          <div class="today-actions">
+            <button id="new-set" class="btn secondary">New set</button>
+            <button id="refresh-revision" class="btn secondary">Refresh revision</button>
+          </div>
+        </header>
+
+        <div class="daily-grid">
+          <div class="card">
+            <div class="card-header">
+              <h3>Current set</h3>
+              <span class="badge" id="new-count">0 / 4</span>
+            </div>
+            <p class="card-desc">Pick up to 4 problems manually from Patterns — click “Add to set” on each problem.</p>
+            <div id="new-problems" class="problem-list"></div>
+          </div>
+
+          <div class="card">
+            <div class="card-header">
+              <h3>Revision</h3>
+              <span class="badge revision" id="rev-count">0 / 4</span>
+            </div>
+            <p class="card-desc">Up to 2 from your weak list + random from solved problems.</p>
+            <div id="rev-problems" class="problem-list"></div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">
+            <h3>Pattern mastery</h3>
+          </div>
+          <div id="pattern-bars" class="pattern-bars"></div>
+        </div>
+      </section>
+
+      <section id="view-patterns" class="view">
+        <header class="page-header">
+          <div>
+            <h2 id="pattern-title">All patterns</h2>
+            <p class="muted" id="pattern-subtitle">Browse by topic</p>
+          </div>
+          <input type="search" id="search" class="search" placeholder="Search problems...">
+        </header>
+        <div id="pattern-detail" class="pattern-detail"></div>
+      </section>
+
+      <section id="view-weak" class="view">
+        <header class="page-header">
+          <div>
+            <h2>Weak problems</h2>
+            <p class="muted" id="weak-summary">Problems you want extra practice on</p>
+          </div>
+          <input type="search" id="weak-add-search" class="search" placeholder="Search to add a problem...">
+        </header>
+        <div id="weak-add-results" class="weak-add-results"></div>
+        <div id="weak-list" class="problem-list"></div>
+      </section>
+
+      <section id="view-completed" class="view">
+        <header class="page-header">
+          <div>
+            <h2>Completed</h2>
+            <p class="muted" id="completed-summary">Problems you have solved</p>
+          </div>
+          <input type="search" id="completed-search" class="search" placeholder="Search completed...">
+        </header>
+        <div id="completed-list" class="problem-list"></div>
+      </section>
+
+      <section id="view-skipped" class="view">
+        <header class="page-header">
+          <div>
+            <h2>Skipped problems</h2>
+            <p class="muted" id="skipped-summary">104 problems not in your daily plan</p>
+          </div>
+          <input type="search" id="skipped-search" class="search" placeholder="Search skipped...">
+        </header>
+        <div id="skipped-list" class="pattern-detail"></div>
+      </section>
+
+      <section id="view-history" class="view">
+        <header class="page-header">
+          <div>
+            <h2>History</h2>
+            <p class="muted">Daily log of new solves and revisions</p>
+          </div>
+        </header>
+        <div id="history-list" class="history-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <div id="code-editor-overlay" class="editor-overlay hidden">
+    <div class="editor-panel" role="dialog" aria-labelledby="editor-problem-title">
+      <header class="editor-header">
+        <div>
+          <p class="editor-label">Java solution</p>
+          <h3 id="editor-problem-title"></h3>
+        </div>
+        <div class="editor-toolbar">
+          <span id="editor-save-status" class="editor-save-status" data-tone="muted">Saved</span>
+          <button id="editor-reset" class="btn secondary" type="button">Reset template</button>
+          <button id="editor-close" class="btn" type="button">Close</button>
+        </div>
+      </header>
+      <div id="monaco-container" class="monaco-container"></div>
+      <footer class="editor-footer">
+        <span class="muted">Keywords appear as you type (e.g. <code>pub</code> → <code>public</code>) · Ctrl+Space for full list · Snippets: <code>binarysearch</code>, <code>bfs</code>, <code>dfs</code></span>
+      </footer>
+    </div>
+  </div>
+
+  <script src="data/tracker-data.js"></script>
+  <script src="data/skipped-problems.js"></script>
+  <script src="editor.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
